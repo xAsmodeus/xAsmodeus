@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm George Marios Koupanis </h1>
-<h2 align="center">B.Sc Student at the Department of Biomedical Informatics UTH</h2>
+<h3 align="center">B.Sc Student at the Department of Biomedical Informatics UTH</h3>
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFrOThsZWN5cWZnY2FzaDhjazRyZjZ6dmNnNzljcTBhdjdkbzJpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
