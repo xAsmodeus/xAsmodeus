@@ -1,5 +1,4 @@
-<h1 style="text-align: center;">Hi, I am George Marios Koupanis</h1>
-
+<h1 align="center">Hey there, I’m George! 👩🏻‍💻</h1>
 <p>B.Sc Student at Department of Computer Science and Biomedical Informatics in University of Thessaly.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
