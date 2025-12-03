@@ -10,7 +10,7 @@
 - 📫 How to reach me **georgekoupni@gmail.com**
 
 <div align="center">
-  <img height="200" src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif"  />
+  <img height="300" width="500" src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif"  />
 </div>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
