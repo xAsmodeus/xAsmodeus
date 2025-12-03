@@ -2,6 +2,8 @@
   <img height="300" width="500" src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif"  />
 </div>
 
+<h3>Hi👋, I'm George Marios Koupanis </h3>
+<h3>B.Sc Student at the Department of Biomedical Informatics UTH</h3>
 - 🔭 I’m currently working on my thesis project **hyroid Ultrasound Analysis and Thyroid Node Evaluation**
 
 - 🌱 I’m currently learning **Python, Machine Learning**
