@@ -2,7 +2,7 @@
   <img height="300" width="500" src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif"  />
 </div>
 
-<h2>Hi👋, I'm George Marios Koupanis. Student at the Department of Biomedical Informatics UTH </h2>
+<h2>Hi👋, I'm George Marios Koupanis. Student at the Department of Biomedical Informatics UTH</h2>
 
 
 - 🔭 I’m currently working on my thesis project **hyroid Ultrasound Analysis and Thyroid Node Evaluation**
