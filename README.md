@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm George</h1>
+<h1 align="center">Hi, I'm George Marios Koupanis </h1>
 <h3 align="center">B.Sc Student at the Department of Biomedical Informatics UTH</h3>
 
 <h3 align="left">Languages and Tools:</h3>
