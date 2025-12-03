@@ -1,6 +1,14 @@
 <h1 align="center">Hi👋, I'm George Marios Koupanis </h1>
 <h3 align="center">B.Sc Student at the Department of Biomedical Informatics UTH</h3>
 
+- 🔭 I’m currently working on my thesis project **hyroid Ultrasound Analysis and Thyroid Node Evaluation**
+
+- 🌱 I’m currently learning **Python, Machine Learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/xAsmodeus?tab=repositories](https://github.com/xAsmodeus?tab=repositories)
+
+- 📫 How to reach me **georgekoupni@gmail.com**
+
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFrOThsZWN5cWZnY2FzaDhjazRyZjZ6dmNnNzljcTBhdjdkbzJpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 </div>
