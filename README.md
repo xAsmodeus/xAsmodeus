@@ -4,6 +4,7 @@
 
 <h3>Hi👋, I'm George Marios Koupanis </h3>
 <h3>B.Sc Student at the Department of Biomedical Informatics UTH</h3>
+
 - 🔭 I’m currently working on my thesis project **hyroid Ultrasound Analysis and Thyroid Node Evaluation**
 
 - 🌱 I’m currently learning **Python, Machine Learning**
