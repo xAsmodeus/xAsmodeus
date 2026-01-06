@@ -4,6 +4,7 @@
 
 <h2>Hi👋, I'm George Koupanis. Student at the Department of Biomedical Informatics UTH</h2>
 
+---
 
 - 🔭 I’m currently working on my thesis project "**Thyroid Ultrasound Analysis and Thyroid Node Evaluation**"
 
