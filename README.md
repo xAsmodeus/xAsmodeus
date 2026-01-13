@@ -1,5 +1,8 @@
 <div align="center">
   <img height="350" width="800" src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif"/>
+  <img src="https://img.shields.io/badge/Profile-xAsmodeus-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-xAsmodeus-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Username-xAsmodeus-0d1117?style=for-the-badge" />
 </div>
 
 <h2>Hi👋, I'm George Koupanis. Student at the Department of Biomedical Informatics UTH</h2>
