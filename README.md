@@ -1,6 +1,7 @@
 <div align="center">
   <img height="350" width="800" src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif"/>
   <br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=xAsmodeus&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
   <img src="https://img.shields.io/github/stars/xAsmodeus?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
   <img src="https://img.shields.io/github/followers/xAsmodeus?style=for-the-badge&color=green" alt="GitHub Followers"/>
