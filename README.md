@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" width="800" src=["https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif](https://tenor.com/el/view/ngoding-mulu-gif-1747207714643625346)"/>
+  <img height="350" width="800" src=[https://media1.tenor.com/m/GD9UKMwnxYIAAAAd/ngoding-mulu.gif"/>
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=xAsmodeus&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
