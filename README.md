@@ -36,7 +36,6 @@
 
 [![LinkedIn](https://skills.syvixor.com/api/icons?i=linkedin)](https://www.linkedin.com/in/georgekoup/)
 [![Instagram](https://skills.syvixor.com/api/icons?i=instagram)](https://www.instagram.com/koupanhs/)
-[![Email](https://skills.syvixor.com/api/icons?i=gmail)](georgekoupni@gmail.com)
 
 
 
