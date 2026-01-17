@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/xAsmodeus?style=for-the-badge&color=green" alt="GitHub Followers"/>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=py,arduino,bash,c,html,java,linux,matlab,pandas,androidstudio,tensorflow,sklearn,octave,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,arduino,bash,c,html,java,linux,matlab,androidstudio,tensorflow,sklearn,octave,pytorch)](https://skillicons.dev)
 
 <h2>Hi👋, I'm George Koupanis. Student at the Department of Biomedical Informatics UTH</h2>
 
