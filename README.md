@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/github/followers/xAsmodeus?style=for-the-badge&color=green" alt="GitHub Followers"/>
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
 <h2>Hi👋, I'm George Koupanis. Student at the Department of Biomedical Informatics UTH</h2>
 
 - 🔭 I’m currently working on my thesis project "**Thyroid Ultrasound Analysis and Thyroid Node Evaluation**"
