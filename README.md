@@ -25,7 +25,7 @@
 
 ---
 
-<h3 align="left">📫 Contact Me:</h3>
+<h3 align="left">📫 Contact me:</h3>
 
 [![LinkedIn](https://skills.syvixor.com/api/icons?i=linkedin)](https://www.linkedin.com/in/georgekoup/)
 [![Instagram](https://skills.syvixor.com/api/icons?i=instagram)](https://www.instagram.com/koupanhs/)
