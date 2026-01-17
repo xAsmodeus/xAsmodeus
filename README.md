@@ -36,6 +36,7 @@
 <a href="https://www.linkedin.com/in/georgekoup/" target="_blank" rel="noreferrer">
   <img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="LinkedIn"/>
 </a>
+
 <a href="https://www.instagram.com/koupanhs/" target="_blank" rel="noreferrer">
   <img src="https://skills.syvixor.com/api/icons?i=instagram" alt="Instagram"/>
 </a>
