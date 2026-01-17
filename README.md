@@ -33,12 +33,9 @@
 <a target="_blank" href="https://www.instagram.com/koupanhs/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 <h3 align="left">📫 Contact Me:</h3>
-<a href="https://www.linkedin.com/in/georgekoup/" target="_blank" rel="noreferrer">
-  <img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/koupanhs/" target="_blank" rel="noreferrer">
-  <img src="https://skills.syvixor.com/api/icons?i=instagram" alt="Instagram"/>
-</a>
+
+[![LinkedIn](https://skills.syvixor.com/api/icons?i=linkedin)](https://www.linkedin.com/in/georgekoup/)
+[![Instagram](https://skills.syvixor.com/api/icons?i=instagram)](https://www.instagram.com/koupanhs/)
 
 
 
