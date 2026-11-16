@@ -9,9 +9,7 @@
 
 <h2>Hi👋, I'm George Koupanis. Student at the Department of Biomedical Informatics UTH</h2>
 
-- 🔭 I’m currently pursuing my B.Sc. Degree
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently pursuing my M.Sc. Degree
 
 - 👨‍💻 All of my projects are available at [https://github.com/xAsmodeus?tab=repositories](https://github.com/xAsmodeus?tab=repositories)
 
